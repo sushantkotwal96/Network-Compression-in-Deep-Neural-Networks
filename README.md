@@ -1,4 +1,4 @@
-# Comprehensive Guide to Network Compression Using Singular Value Decomposition (SVD)
+#  Network Compression in Deep Neural Networks Using Singular Value Decomposition (SVD)
 
 ## Overview
 
