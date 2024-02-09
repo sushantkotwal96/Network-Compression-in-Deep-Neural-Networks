@@ -37,15 +37,15 @@ This project is structured around three main problems, each exploring different 
 
 To get started with this project, follow these steps:
 
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies as specified in the requirements.txt file.
+1. Clone the repository: `git clone [repository_url]`
+2. Install dependencies: `pip install -r requirements.txt`
 3. Run the provided scripts or notebooks to train and evaluate network compression using SVD.
 4. Explore the results and experiment with different parameters to deepen your understanding.
 
 ## Acknowledgement
 
 This project would like to thank the developers of TensorFlow, for providing the tools and libraries for Network Compression that made this project possible
+
 ## Licenses
 
-This project is licensed under the [insert license type, e.g., MIT License]. For more information, please refer to the LICENSE.md file.
-
+This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
